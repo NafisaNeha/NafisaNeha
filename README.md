@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nehanafisatasnim@gmail.com**
 
-- ⚡ Fun fact **I love photography,travelling,listening to music and doing makeup.**
+- ⚡ Fun fact **I love photography, travelling, listening to music and doing makeup.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
