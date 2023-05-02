@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nafisa Tasnim Neha</h1>
-<h3 align="center">A Passionate Android and Java Developer. Also I’ve great enthusiasm in Artificial Intelligence & Data Science.</h3>
+<h3 align="center">A Passionate Android and Java Developer. Also I’ve great enthusiasm in Artificial Intelligence, Machine Learning & Data Science.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafisaneha&label=Profile%20views&color=0e75b6&style=flat" alt="nafisaneha" /> </p>
