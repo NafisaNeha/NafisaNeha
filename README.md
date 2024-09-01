@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nafisa Tasnim Neha</h1>
-<h3 align="center">A Passionate Android and Java Developer. Also I’ve great enthusiasm in Artificial Intelligence, Machine Learning & Data Science.</h3>
+<h3 align="center">A Passionate Android and Web Developer. Also I’ve great enthusiasm in Artificial Intelligence, Machine Learning & Data Science.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafisaneha&label=Profile%20views&color=0e75b6&style=flat" alt="nafisaneha" /> </p>
@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/nafisatasn260" target="blank"><img src="https://img.shields.io/twitter/follow/nafisatasn260?logo=twitter&style=for-the-badge" alt="nafisatasn260" /></a> </p>
 
-- 🌱 I’m currently learning **C,C++,Java,Data Structure,Algorithm,Database,ML,AI**
+- 🌱 I’m currently learning **C,C++,Java,JavaScript,Html,MongoDB,Express,React,Node,Data Structure,Algorithm,Database,ML,AI**
 
-- 👯 I’m looking to collaborate **with people who wants to make IT based projects.**
+- 👯 I’m looking to collaborate **with people who wants to make IT based projects or develop any website**
 
 - 💬 Ask me about **C,C++,Java**
 
 - 📫 How to reach me **nehanafisatasnim@gmail.com**
 
-- ⚡ Fun fact **I love photography, travelling, listening to music and doing makeup.**
+- ⚡ Fun fact **I love photography, travelling, listening to music and doing makeup (page link- https://www.facebook.com/NafisaTasnimNehaa/).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
